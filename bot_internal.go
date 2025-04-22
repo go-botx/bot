@@ -1,4 +1,4 @@
-package bot
+package botx
 
 import (
 	"crypto/hmac"
@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-botx/go-botx/models"
+	"github.com/go-botx/botx/models"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/gofiber/fiber/v2/middleware/recover"

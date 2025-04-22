@@ -1,11 +1,11 @@
-package bot
+package botx
 
 import (
 	"errors"
 	"sync"
 	"time"
 
-	"github.com/go-botx/go-botx/models"
+	"github.com/go-botx/botx/models"
 	"github.com/google/uuid"
 )
 

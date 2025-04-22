@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-botx/bot/models"
+	"github.com/go-botx/go-botx/models"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/golang-jwt/jwt/v5"

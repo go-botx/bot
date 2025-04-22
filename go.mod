@@ -1,4 +1,4 @@
-module github.com/go-botx/bot
+module github.com/go-botx/go-botx
 
 go 1.24.1
 
